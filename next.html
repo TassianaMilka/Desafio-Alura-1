@@ -1,0 +1,59 @@
+<!DOCTYPE  html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crip_des</title>
+    <link rel="stylesheet" href="./style/style.css">
+    <script src="./js/script.js"></script>
+</head>
+<body>
+    <header class="menu__logo">   
+        <nav class="menu__logo__link">
+          <img  class="icon__alura"src="./img/imagem_1.png" alt="icon da alura">
+             <a class="menu__logo__link__a" href="index.html">Home</a>
+             <a class="menu__logo__link__a" href="about.html">Sobre</a>
+             <a class="menu__logo__link__a" href= "calender.html">Cronograma</a>
+         </nav>
+    </header>
+     <main class="conteudo__pagina">
+        <section class="conteudo__pagina__apresentado"> 
+         <div class="texto__imagem__verificar">
+           <textarea id="texto" class="textodescrever" rows="10" cols="26" placeholder="Digite o texto"></textarea>
+          </div>
+               <div class="container__botoes">
+                <style>
+                    p{
+
+                        color:#ffa500;
+                    }
+                </style>
+                 <p>Apenas letras minúsculas e sem acento.</p>
+                 <button onclick=" criptografar() " class="containerbotao">Criptografar</button>
+                <button onclick=" descriptografar() " class="containerbotaotwo">Descriptografar</button>
+        </div>
+             </section>    
+            <section class="conteudo__pagina__apresentado__two"> 
+            <div class="borda__imagem">        
+                <textarea id="copiarTexto" class="texto__descrever__one" rows="14" cols="26"></textarea>
+            </div>
+           <style>
+            .container__botoes{
+
+                align-items: center;
+
+            } 
+           </style>
+            <div class="container__botoes">
+                <button id= "copiarTextonext" onclick=" copiar() " class="container__botao__tree">Copiar</button>
+        </div>
+    </div>
+        </section>
+    </main>
+        <footer class="menu__informacao">
+             Desenvolvido pela estudante Tassiana Milka
+        </footer>
+</body>
+</html>
+     
