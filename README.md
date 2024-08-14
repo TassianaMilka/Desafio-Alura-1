@@ -3,6 +3,15 @@
 ## Challenge
 
 
+-Realizado entre Julho até Agosto de 2024;
+
+-Utilazando o Visual Studio Code;
+
+-O principal objetivo é criação de criptografar e descriptografar;
+
+
+
+
 
 
 
