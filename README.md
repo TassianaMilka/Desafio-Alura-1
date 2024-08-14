@@ -7,7 +7,7 @@
 
 -Utilazando o Visual Studio Code;
 
--O principal objetivo é criação de criptografar e descriptografar;
+-O principal objetivo é  uma criação de criptografar e descriptografar mensagem descrita pelo usuário;
 
 
 
