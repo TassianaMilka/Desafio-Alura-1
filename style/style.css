@@ -312,3 +312,32 @@ body::-webkit-scrollbar-thumb{
     }
 
 }
+
+
+@media (max-width: 480px) {
+
+.menu__logo {
+
+        padding: 10%;
+
+    }
+
+    .menu__logo__link {
+
+        justify-content: center;
+    }
+
+    .conteudo__pagina {
+
+        flex-direction: column-reverse;
+        padding: 5%;
+
+    }
+
+    .conteudo__pagina__apresentado {
+
+        width: auto;
+
+    }
+
+}
