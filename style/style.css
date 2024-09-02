@@ -314,11 +314,11 @@ body::-webkit-scrollbar-thumb{
 }
 
 
-@media (max-width: 480px) {
+@media (min-width: 480px) {
 
 .menu__logo {
 
-        padding: 10%;
+        padding: 5%;
 
     }
 
@@ -330,7 +330,7 @@ body::-webkit-scrollbar-thumb{
     .conteudo__pagina {
 
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 2%;
 
     }
 
