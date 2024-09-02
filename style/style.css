@@ -330,6 +330,7 @@ body::-webkit-scrollbar-thumb{
     .conteudo__pagina {
 
         flex-direction: column-reverse;
+        justify-content: center;
         padding: 2%;
 
     }
