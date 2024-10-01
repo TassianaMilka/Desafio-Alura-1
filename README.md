@@ -5,7 +5,7 @@
 
 -Realizado entre Julho até Agosto de 2024;
 
--Utilazando o Visual Studio Code;
+-Utilizando o Visual Studio Code;
 
 -O principal objetivo é  uma criação de criptografar e descriptografar mensagem descrita pelo usuário;
 
